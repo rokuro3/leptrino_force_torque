@@ -1,0 +1,8 @@
+prefix=/home/flexiblelaboac/catkin_ws/src/leptrino_force_torque/cmake-build-debug/devel
+
+Name: leptrino_force_torque
+Description: Description of leptrino_force_torque
+Version: 1.0.0
+Cflags: -I/home/flexiblelaboac/catkin_ws/src/leptrino_force_torque/include
+Libs: -L/home/flexiblelaboac/catkin_ws/src/leptrino_force_torque/cmake-build-debug/devel/lib -lleptrino_force_torque
+Requires: 

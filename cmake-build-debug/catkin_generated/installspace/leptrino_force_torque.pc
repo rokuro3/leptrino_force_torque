@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: leptrino_force_torque
+Description: Description of leptrino_force_torque
+Version: 1.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib -lleptrino_force_torque
+Requires: 
