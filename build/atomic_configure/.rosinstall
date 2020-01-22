@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/flexiblelaboac/catkin_ws/src/leptrino_force_torque/build/devel/setup.sh
